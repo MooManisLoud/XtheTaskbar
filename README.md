@@ -3,6 +3,7 @@
 <img src="https://i.ibb.co/ZHWnhRC/logo.png">
 Simple Taskbar Tool written in C++
 </div>
+<br><br>
 
 > :warning: **Windows 11 Patched**: Will be fixed in later update
 
