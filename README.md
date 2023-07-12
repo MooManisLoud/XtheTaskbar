@@ -5,7 +5,7 @@ Simple Taskbar Tool written in C++
 </div>
 <br><br>
 
-> :warning: **Windows 11 Patched**: Will be fixed in later update
+> :warning: **Windows 11 Bug**: Removes the whole taskbar will be fixed soon!
 
 <br>
 
